@@ -4,6 +4,8 @@
   "description": "",
   "main": "index.ejs",
   "scripts": {
+    "start": "node index.ejs",
+    "build": "npm run",
     "devStart": "nodemon server.js"
   },
   "keywords": [],
